@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heal Page</title>
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(to right, #3498db, #2c3e50); /* Change gradient colors as needed */
+        }
+
+        #healButton {
+            background-color: rgba(255, 255, 255, 0.5);
+            border: none;
+            padding: 15px 30px;
+            font-size: 18px;
+            cursor: pointer;
+            border-radius: 10px; /* Rounded edges */
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+            transition: background-color 0.3s, opacity 0.5s;
+        }
+
+        #healButton:hover {
+            background-color: rgba(255, 255, 255, 0.8);
+        }
+
+        #popup {
+            display: none;
+            position: fixed;
+            top: 35%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(255, 255, 255, 0.8); /* Transparent background */
+            padding: 20px;
+            box-shadow: 0 0 25px rgba(0, 0, 0, 0.5);
+            z-index: 1;
+            border-radius: 10px; /* Rounded edges */
+            opacity: 0;
+            transition: opacity 0.5s;
+        }
+
+        #popupContent {
+            text-align: center;
+            font-size: 20px;
+            margin-top: 10px; /* Adjusted position */
+        }
+
+        #closeButton {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<button id="healButton" onclick="showPopup()">Heal</button>
+
+<div id="popup">
+    <span id="closeButton" onclick="closePopup()">x</span>
+    <div id="popupContent">
+        <p>Healing complete!</p>
+    </div>
+</div>
+
+<script>
+    function showPopup() {
+        document.getElementById('popup').style.display = 'block';
+        setTimeout(() => {
+            document.getElementById('popup').style.opacity = '1';
+        }, 50); // Delay the fade-in to allow for display:block transition
+    }
+
+    function closePopup() {
+        document.getElementById('popup').style.opacity = '0';
+        setTimeout(() => {
+            document.getElementById('popup').style.display = 'none';
+        }, 500); // Wait for the fade-out transition to complete (0.5s)
+    }
+</script>
+
+</body>
+</html>
