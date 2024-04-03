@@ -1,7 +1,5 @@
-<div style="text-align:center">
-![ae42c667bba11244fd1a2f59e63605a0](https://github.com/AshTheDeveloper/Ethereal/assets/97385822/175f3ebf-1f0d-4f81-be71-37672980d35a)
-</div>
 
+![ae42c667bba11244fd1a2f59e63605a0](https://github.com/AshTheDeveloper/Ethereal/assets/97385822/175f3ebf-1f0d-4f81-be71-37672980d35a)
 
 ## What is Empremix?
 
