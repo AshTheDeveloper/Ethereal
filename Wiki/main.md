@@ -10,7 +10,7 @@
 > Introduction, Gameplay Guide, Basic Controls & Commands. [Click Here](./Getting_Started/main.md)
 
 ## 2. World Overview
-> Discover Ethereal's mystical beauty, mythical creatures, quests, and boundless wonder in this enchanting realm. [Click Here](./World_Overview/main.md)
+> Discover Ethereal's  mythical creatures, quests, and boundless wonder in this enchanting realm. [Click Here](./World_Overview/main.md)
 
 ## 3. Game Mechanics
 > Combat, Levelling, Quests, Economy - Dive into the heart of the game's workings. [Click Here](./Game_Mechanics/main.md)
