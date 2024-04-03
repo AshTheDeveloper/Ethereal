@@ -9,7 +9,7 @@
 > **COMING SOON**
 
 ## Getting Started
-> **Don't know where to start? Check out our** [**Wiki**](https://github.com/TheHQE/Empremix/blob/master/Documentation/README.MD)
+> **Don't know where to start? Check out our** [**Wiki**](./Wiki/readme.md)
 
 ## Community/Support Server
 > **Consider joining our** [**Official Server**](https://discord.gg/eekqdaZhCj)
