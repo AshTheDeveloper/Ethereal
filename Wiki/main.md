@@ -5,10 +5,19 @@
 > **Greetings! Welcome to the Ethereal Wiki, your comprehensive guide to all things Ethereal. Organized into categories, this wiki provides insights into game mechanics and content for a seamless understanding of the Ethereal world.**
 
 ## 1. Getting Started
- Introduction to game, How to play, Basic controls & commands [Click Here](./Getting_Started/main.md)
+> Introduction, Gameplay Guide, Basic Controls & Commands. [Click Here](./Getting_Started/main.md)
 
-2. World Overview
-4. Game Mechanics
-5. Equipment & Armor
-6. Beastiery
-7. Community & Support
+## 2. World Overview
+> Discover Ethereal's mystical beauty, mythical creatures, quests, and boundless wonder in this enchanting realm. [Click Here](./World_Overview/main.md)
+
+## 3. Game Mechanics
+> Combat, Levelling, Quests, Economy - Dive into the heart of the game's workings. [Click Here](./Game_Mechanics/main.md)
+
+## 4. Equipment & Consumables
+> Discover details and learn more about each gear and consumable item. [Click Here](./Equipment_&_Consumables/main.md)
+
+## 5. Beastiery
+> Explore monsters: attacks, special moves, drops, and more. [Click Here](./Equipment_&_Consumables/main.md)
+
+## 6. Community & Support
+> Discover Ethereal's Development Team, Join the Community, or Seek Assistance. [Click Here](./Community_&_Support/main.md)
