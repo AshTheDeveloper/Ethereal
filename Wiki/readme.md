@@ -3,6 +3,6 @@
     <h1 style="display: inline-block;">Ethereal Official Wiki</h1>
 </div>
 
-[Home Page](../README.md)
+[Home Page](../readme.md)
 
 Greetings! This wiki will tell you everything there is and can possibly even be for Etherael. The wiki is divided into categories to help with the ease of understanding the mechanics and the game content of Ethereal
