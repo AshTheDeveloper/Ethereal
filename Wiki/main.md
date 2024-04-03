@@ -4,8 +4,9 @@
 
 > **Greetings! Welcome to the Ethereal Wiki, your comprehensive guide to all things Ethereal. Organized into categories, this wiki provides insights into game mechanics and content for a seamless understanding of the Ethereal world.**
 
-## 1. [Getting Started](./Getting_Started/main.md)
- >   Introduction to game, How to play, Basic controls & commands
+## 1. Getting Started
+ Introduction to game, How to play, Basic controls & commands [Click Here](./Getting_Started/main.md)
+
 2. World Overview
 4. Game Mechanics
 5. Equipment & Armor
