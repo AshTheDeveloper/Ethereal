@@ -1,1 +1,1 @@
-## <div align="center">Ethereal Wiki</div>
+# <div align="center">Ethereal Wiki</div>
