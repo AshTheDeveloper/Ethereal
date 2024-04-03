@@ -1,9 +1,11 @@
 <div align="center">
     <div style="display: flex; align-items: center;">
         <img src="https://github.com/AshTheDeveloper/Ethereal/assets/97385822/175f3ebf-1f0d-4f81-be71-37672980d35a/ae42c667bba11244fd1a2f59e63605a0.jpg" alt="Your Image">
-        <h1 style="margin-left: 0px;">Ethereal Wiki</h1>
+        <!-- &nbsp; is a non-breaking space to add some space between the image and text -->
+        &nbsp; <h1>Ethereal Wiki</h1>
     </div>
 </div>
+
 
 
 ## What is Ethereal?
