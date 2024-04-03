@@ -1,4 +1,4 @@
-[![standard-readme compliant](https://img.shields.io/badge/Return_To-Previous_Page-blueviolet.svg?style=flat-square?size=100)](./main.md) 
+[![standard-readme compliant](https://img.shields.io/badge/Return_To-Previous_Page-blueviolet.svg?style=flat-square?size=100)](../main.md) 
 
 ## Explore Weaponry:
 > Uncover the nuances of each weapon type and their stats. [Click Here](./weapons.md)
