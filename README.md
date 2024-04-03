@@ -1,5 +1,5 @@
 <div style="text-align:center">
-![image](https://github.com/AshTheDeveloper/Ethereal/assets/97385822/12da52c5-315c-41e6-999a-03954ba942c0)
+![image](https://github.com/AshTheDeveloper/Ethereal/assets/97385822/12da52c5-315c-41e6-999a-03954ba942c0.png)
 </div>
 
 
