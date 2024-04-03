@@ -7,8 +7,9 @@ Embark on an exhilarating journey through Ethereal, a realm once peaceful, now c
 
 ## Game Contents:
 - **Monstrous Foes:** Confront goblins, dragons, and more.
-- **Legendary Equipment:** Craft powerful weapons and armor to help you in battle.
+- **Legendary Equipment:** Craft or buy powerful weapons and armor to help you in battle.
 - **Multiple Continents:** Explore Aldoia, Elysium and many more continents.
 - **Enchanting System:** Enhance your gear with powerful enchantments.
 - **Thrilling Battles:** Battle your way through against enemies.
+- **Vibrant Characters:** Lively personalities, each with their own emotions and stories, influencing your adventure.
 - **Unique Storyline:** A sacrificial and emotional storyline.
