@@ -5,7 +5,9 @@
   </div>
 </div>
 
-![ae42c667bba11244fd1a2f59e63605a0](https://github.com/AshTheDeveloper/Ethereal/assets/97385822/827340fd-6ee4-4beb-bce6-14fea8e1c80f) # Ethereal Wiki
+![ae42c667bba11244fd1a2f59e63605a0](https://github.com/AshTheDeveloper/Ethereal/assets/97385822/827340fd-6ee4-4beb-bce6-14fea8e1c80f)
+# Ethereal Wiki
+
 
 
 
