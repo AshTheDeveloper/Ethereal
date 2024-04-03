@@ -9,12 +9,12 @@
 
 
 ## What is Ethereal?
-> A fantasy MMORPG game bot where you can embark on thrilling quests, engage in fierce battles, and forge lasting alliances with fellow adventurers. Join the adventure today and immerse yourself in a world of epic exploration and excitement!
+A fantasy MMORPG game bot where you can embark on thrilling quests, engage in fierce battles, and forge lasting alliances with fellow adventurers. Join the adventure today and immerse yourself in a world of epic exploration and excitement!
 
 <br>
 
 ## Inviting The Bot
-> **COMING SOON**
+**COMING SOON**
 
 <br>
 
