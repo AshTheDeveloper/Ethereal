@@ -9,7 +9,7 @@
 > **COMING SOON**
 
 ## Getting Started
-> **Don't know where to start? Check out our** [**Wiki**](./Wiki/readme.md)
+> **Don't know where to start? Check out our** [**Wiki**](./Wiki/main.md)
 
 ## Community/Support Server
 > **Consider joining our** [**Official Server**](https://discord.gg/eekqdaZhCj)
