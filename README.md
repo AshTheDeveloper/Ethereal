@@ -10,18 +10,12 @@
 
 ## What is Ethereal?
 A fantasy MMORPG game bot where you can embark on thrilling quests, engage in fierce battles, and forge lasting alliances with fellow adventurers. Join the adventure today and immerse yourself in a world of epic exploration and excitement!
-
 <br>
-
 ## Inviting The Bot
 **COMING SOON**
-
 <br>
-
 ## Getting Started
 > Don't know where to start? Check out our [**Wiki**](https://github.com/TheHQE/Empremix/blob/master/Documentation/README.MD)
-
 <br>
-
 ## Community/Support Server
 > Consider joining our [**Official Server**](https://discord.gg/eekqdaZhCj)
